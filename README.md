@@ -32,10 +32,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/asghar61/3x-ui/master/install.
 
 ## Install Old Version (we don't recommend)
 
-To install your desired version, use following installation command. e.g., ver `v1.7.9`:
+To install your desired version, use following installation command. e.g., ver `v2.4.2`:
 
 ```
-VERSION=v1.7.9
+VERSION=v2.4.2
 bash <(curl -Ls "https://raw.githubusercontent.com/mhsanaei/3x-ui/$VERSION/install.sh") $VERSION
 ```
 
