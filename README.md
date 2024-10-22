@@ -27,7 +27,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/asghar61/3x-ui/master/install.sh)
 ```
 
 ## Install Old Version (we don't recommend)
